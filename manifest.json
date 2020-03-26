@@ -3,6 +3,7 @@
   "name": "sandbox",
   "version": "0.1.1",
   "builders": {
+    "messages": "1.x",
     "assets": "0.x",
     "styles": "2.x",
     "store": "0.x",
