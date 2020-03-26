@@ -16,6 +16,10 @@
     ]
   },
 
+  "hello-world": {
+    "title": "Hello World Block"
+  },
+
   "shelf#home": {
     "blocks": ["product-summary.shelf"]
   },
