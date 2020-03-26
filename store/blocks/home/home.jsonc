@@ -26,12 +26,12 @@
       "height": 720,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "assets/test/sunglasses.png",
+          "mobileImage": "assets/test/banners3a6 t-04.png"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "assets/test/banners3a6 t-05.png",
+          "mobileImage": "assets/test/banner-2-mobile.png"
         }
       ]
     }
