@@ -1,8 +1,7 @@
 import { horaAtualServidor } from './HoraAtualServidor';
 
 const Query = {
-	horaAtualServidor,
-	
+	horaAtualServidor
 };
 
 export default Query;

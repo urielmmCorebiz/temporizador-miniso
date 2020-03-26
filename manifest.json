@@ -1,12 +1,12 @@
 {
-  "vendor": "fila",
-  "name": "cea-faq",
+  "vendor": "corebiz",
+  "name": "sandbox",
   "version": "0.1.0",
   "builders": {
-    "styles": "1.x",
+    "checkout-ui-custom": "0.x",
+    "styles": "2.x",
     "store": "0.x",
     "react": "3.x",
-    "node": "4.x",
     "graphql": "1.x"
   },
   "mustUpdateAt": "2020-09-13",
@@ -39,8 +39,8 @@
     "vtex.breadcrumb": "1.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
-  "title": "C&A FAQ",
-  "description": "C&A FAQ",
+  "title": "Sandbox",
+  "description": "A QA app to make tests",
   "registries": [
     "smartcheckout"
   ]
