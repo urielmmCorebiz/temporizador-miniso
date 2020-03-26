@@ -46,7 +46,7 @@ HelloWorld.defaultProps = {
 HelloWorld.getSchema = () => {
   return {
     title: "HelloWorld",
-    description: "Slider de Banner",
+    description: "Hello World Component",
     type: "object",
     properties: {
       banners: {
