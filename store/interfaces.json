@@ -1,10 +1,5 @@
 {
   "hello-world": {
     "component":"HelloWorld"
-  },
-  "store.home.fila": {
-     "allowed": [
-       "hello-world"
-     ]
-   }
+  }
 }
