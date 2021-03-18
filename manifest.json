@@ -1,15 +1,13 @@
 {
-  "vendor": "corebiz",
-  "name": "sandbox",
-  "version": "0.1.2",
+  "vendor": "minisomx",
+  "name": "temporizador",
+  "version": "0.0.1",
   "builders": {
     "messages": "1.x",
     "assets": "0.x",
     "styles": "2.x",
     "store": "0.x",
-    "react": "3.x",
-    "node": "4.x",
-    "graphql": "1.x"
+    "react": "3.x"
   },
   "mustUpdateAt": "2020-09-13",
   "scripts": {
