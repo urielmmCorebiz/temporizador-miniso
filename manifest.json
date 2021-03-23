@@ -1,9 +1,8 @@
 {
-  "vendor": "minisomx",
+  "vendor": "minisocol",
   "name": "temporizador",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "builders": {
-    "messages": "1.x",
     "assets": "0.x",
     "styles": "2.x",
     "store": "0.x",
