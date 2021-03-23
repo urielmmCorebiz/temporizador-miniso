@@ -3,7 +3,7 @@
 ## Use this app to make tests with vtexio. 
 
 
-#Install React Countdow
+#Install React Countdown
 
 npm install react-countdown
 
